@@ -1,9 +1,6 @@
 # Youtube_Downloader
 Pra baixar musicas do br pros br
 
-Claro, Igor! Vou formatar o README direitinho pra você só copiar e colar no seu arquivo `README.md`. Aqui está pronto:
-
----
 
 # YouTube Playlist Downloader - MP3
 
@@ -115,4 +112,3 @@ Para dúvidas ou sugestões, abra uma issue ou envie mensagem.
 
 ---
 
-Pronto! Pode copiar e colar direto no `README.md` do seu GitHub. Quer ajuda para algo mais?
